@@ -1,0 +1,230 @@
+# Translation of Colinear in Portuguese (Brazil)
+# This file is distributed under the same license as the Colinear package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-27 21:49:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Colinear\n"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:25
+#: template-parts/content.php:31
+msgid "Page"
+msgstr "Página"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/colinear/style.css
+msgid "Colinear -- our update to the older Coraline -- is a squeaky-clean theme featuring a custom menu, header, background, and layout options. Colinear supports featured images and six widget areas -- up to three each in the sidebar and footer. Primarily designed for magazine-style sites, Colinear is a flexible theme that suits any personal blog, or content-rich site."
+msgstr "Colinear -- nossa atualização para o antigo Coraline -- é um tema super limpo com menu personalizado, opções para cabeçalho, fundo e layout. Colinear suporta imagem destacada e seis áreas para widgets -- até três em cada barra lateral e rodapé. Inicialmente desenvolvido para sites estilo revista, o Colinear é um tema flexível que se encaixa para qualquer blog pessoal ou sites ricos em conteúdo."
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Não encontramos nada para estes termos de busca. Tente novamente com palavras-chave diferentes."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não encontramos o que você está procurando. Talvez a ferramenta de pesquisa possa ajudar."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: single.php:21
+msgid "Previous"
+msgstr "Anterior"
+
+#: single.php:21
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenhum resultado"
+
+#: single.php:20
+msgid "Next"
+msgstr "Avançar"
+
+#: single.php:20
+msgid "Next post:"
+msgstr "Próximo post:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:152
+msgid "Continue reading %s"
+msgstr "Continuar lendo %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: inc/template-tags.php:59 template-parts/content-page.php:30
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:55
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: inc/template-tags.php:55
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:55
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/template-tags.php:32
+msgid "Featured Post"
+msgstr "Post Destacado"
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: inc/customizer.php:29
+msgid "Sidebars"
+msgstr "Lateral"
+
+#: inc/customizer.php:39
+msgid "No Sidebar"
+msgstr "Sem barra lateral"
+
+#: functions.php:267
+msgid "collapse child menu"
+msgstr "colapsar submenu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Ir para conteúdo"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:187
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lora, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:192
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "ligada"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:226
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "ativa"
+
+#: functions.php:266
+msgid "expand child menu"
+msgstr "expandir submenu"
+
+#: functions.php:89
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: functions.php:107
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:120
+msgid "Sidebar Right"
+msgstr "Lateral Direita"
+
+#: functions.php:131
+msgid "Sidebar Left"
+msgstr "Lateral Esquerda"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s "
+
+#: functions.php:46 header.php:45
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Mantido com %s"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado por aqui. Tente uma busca talvez?"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não pode ser encontrada."

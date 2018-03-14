@@ -1,0 +1,312 @@
+# Translation of Themes - Colinear in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Colinear package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-05 07:30:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Colinear\n"
+
+#. Description of the plugin/theme
+msgid "Colinear -- our update to the older Coraline -- is a squeaky-clean theme featuring a custom menu, header, background, and layout options. Colinear supports featured images and six widget areas -- up to three each in the sidebar and footer. Primarily designed for magazine-style sites, Colinear is a flexible theme that suits any personal blog, or content-rich site."
+msgstr "從舊版加以改進的 Colinear，是一個相當乾淨清爽的佈景主題，並具備自訂選單、頁首、背景以及版面配置的功能。Colinear 支援精選圖片並能顯示 6 個小工具區塊，每個側欄與頁尾均可顯示多達三個小工具。Colinear 主要是為雜誌風格網站所設計，同時也是適合個人部落格或內容豐富網站的佈景主題。繁體中文本地化由「<a href=\"https://www.alexclassroom.com/\" target=\"_blank\">阿力獅的教室</a>」站長<a href=\"https://www.facebook.com/captain.alexlion\" target=\"_blank\">阿力獅</a>提供。"
+
+#. Theme Name of the plugin/theme
+msgid "Colinear"
+msgstr "Colinear"
+
+#: inc/plugin-enhancements.php:294
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "請啟用 Jetpack 外掛的「%2$s」功能，才能使用「%1$s」。"
+
+#: inc/plugin-enhancements.php:269
+msgid "Install"
+msgstr "安裝"
+
+#: inc/plugin-enhancements.php:267
+msgid " Please install %1$s. %2$s"
+msgstr "請安裝 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:259
+msgid "Activate"
+msgstr "啟用"
+
+#: inc/plugin-enhancements.php:257
+msgid " Please activate %1$s. %2$s"
+msgstr "請啟用 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:185
+msgid "Custom Content Types module"
+msgstr "自訂內容類型模組"
+
+#: inc/plugin-enhancements.php:184
+msgid "no specific module needed"
+msgstr "無須特定模組"
+
+#: inc/plugin-enhancements.php:89
+msgid "Jetpack plugin"
+msgstr "Jetpack 外掛"
+
+#: inc/plugin-enhancements.php:88
+msgid "The %1$s is required to use some of this theme&rsquo;s features, including: "
+msgstr "本佈景主題的特定功能需要「%1$s」才能使用，包含: "
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀《%s》<span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:25
+#: template-parts/content.php:31
+msgid "Page"
+msgstr "頁面"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "頁次:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到你所要的內容，也許搜尋功能能幫到你！"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到你想要的內容，請換一個關鍵詞再次搜尋。"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章嗎？<a href=\"%1$s\">由此開始</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "沒有搜尋到符合的結果"
+
+#: single.php:21
+msgid "Previous post:"
+msgstr "下一篇文章:"
+
+#: single.php:21
+msgid "Previous"
+msgstr "前一頁"
+
+#: single.php:20
+msgid "Next post:"
+msgstr "下一篇文章:"
+
+#: single.php:20
+msgid "Next"
+msgstr "下一頁"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "搜尋「%s」的結果"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:152
+msgid "Continue reading %s"
+msgstr "繼續閱讀《%s》"
+
+#: inc/template-tags.php:59 template-parts/content-page.php:30
+msgid "Edit"
+msgstr "編輯"
+
+#: inc/template-tags.php:55
+msgid "% Comments"
+msgstr "% 則留言"
+
+#: inc/template-tags.php:55
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: inc/template-tags.php:55
+msgid "Leave a comment"
+msgstr "留下留言"
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr "標籤為「%1$s」"
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr "分類為「%1$s」"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "作者為 %s"
+
+#: inc/template-tags.php:32
+msgid "Featured Post"
+msgstr "精選文章"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "發表於 %s"
+
+#: inc/customizer.php:39
+msgid "No Sidebar"
+msgstr "無側欄"
+
+#: inc/customizer.php:38
+msgid "1 Sidebar Right & 1 Sidebar Left"
+msgstr "一個右側欄及一個左側欄"
+
+#: inc/customizer.php:37
+msgid "2 Sidebars Left"
+msgstr "兩個左側欄"
+
+#: inc/customizer.php:36
+msgid "2 Sidebars Right"
+msgstr "兩個右側欄"
+
+#: inc/customizer.php:35
+msgid "1 Sidebar Left"
+msgstr "一個左側欄"
+
+#: inc/customizer.php:34
+msgid "1 Sidebar Right"
+msgstr "一個右側欄"
+
+#: inc/customizer.php:29
+msgid "Sidebars"
+msgstr "側欄"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "佈景主題選項"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "跳到主內容區"
+
+#: functions.php:267
+msgid "collapse child menu"
+msgstr "收合子選單"
+
+#: functions.php:266
+msgid "expand child menu"
+msgstr "展開子選單"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:226
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:192
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:187
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:164
+msgid "Featured Sidebar"
+msgstr "精選側欄"
+
+#: functions.php:153
+msgid "Sidebar Left 2"
+msgstr "左側欄 2"
+
+#: functions.php:142
+msgid "Sidebar Right 2"
+msgstr "右側欄 2"
+
+#: functions.php:131
+msgid "Sidebar Left"
+msgstr "左側欄"
+
+#: functions.php:120
+msgid "Sidebar Right"
+msgstr "右側欄"
+
+#: functions.php:107
+msgid "Footer 3"
+msgstr "頁尾 3"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "頁尾 2"
+
+#: functions.php:89
+msgid "Footer 1"
+msgstr "頁尾 1"
+
+#: functions.php:46 header.php:45
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "使用的佈景主題為 %2$s 所設計的 %1$s。"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "本網站採用 %s 建置。"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "較新的留言"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "較舊的留言"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "留言導覽"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在「%2$s」上有 %1$s 則留言"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "找不到你所要的內容，也許搜尋功能能幫到你！"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到這個頁面。"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/colinear/"
+msgstr "https://wordpress.com/themes/colinear/"
